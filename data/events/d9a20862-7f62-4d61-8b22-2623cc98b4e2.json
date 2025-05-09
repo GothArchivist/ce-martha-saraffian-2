@@ -3,7 +3,12 @@
     "b4a52f46-202b-43c8-8c3e-5f9f0e921017": {
       "label": "AV File 2",
       "file_url": "https://aviary-p-fortunoff.s3.wasabisys.com/collection_resource_files/resource_files/000/094/895/original/open-uri20200721-25675-15ovb4.mov?1595318276",
-      "duration": 1994.92833
+      "duration": 1995,
+      "caption_set": [
+        {
+          "annotation_page_id": "68ab39a1-2a4c-425e-80c9-b5dc31b85608"
+        }
+      ]
     }
   },
   "auto_generate_web_page": true,
@@ -12,7 +17,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Videotape testimony of Martha S., who was born in Prague in 1907. Mrs. S. describes her early family life; her family's move to the Sudeten in 1909; and her family's reaction to her marrying a non-Jewish child survivor of the Armenian genocide. She recounts the plight of the Jews in the wake of Kristallnacht and her husband's help in assisting her and her parents to flee to Czechoslovakia. She recalls anti-Jewish restrictions; her designation, along with her oldest \"Jewish\" daughter, for transport to a labor camp (a younger daughter was not designated as Jewish); and her husband's conscription as a slave laborer in Germany when he tried to intervene on her behalf. She relates her daughter's transport to a children's camp in 1942; her own transport to a nearby camp for Jewish women married to non-Jews; and her transport, at the end of 1943, to Terezín. She describes her work in the camp; general conditions; and her escape and return home. Mrs. S. also discusses her 1947 emigration to Argentina with her husband and daughters; her husband's inability to mentally recover from his wartime experiences; and her life after his death."
+          "text": "Videotape testimony of Martha S., who was born in Prague in 1907. Mrs. S. describes her early family life; her family's move to the Sudeten in 1909; and her family's reaction to her marrying a non-Jewish child survivor of the Armenian genocide. She recounts the plight of the Jews in the wake of Kristallnacht and her husband's help in assisting her and her parents to flee to Czechoslovakia. She recalls anti-Jewish restrictions; her designation, along with her oldest \"Jewish\" daughter, for transport to a labor camp (a younger daughter was not designated as Jewish); and her husband's conscription as a slave laborer in Germany when he tried to intervene on her behalf. She relates her daughter's transport to a children's camp in 1942; her own transport to a nearby camp for Jewish women married to non-Jews; and her transport, at the end of 1943, to Terezín. She describes her work in the camp; general conditions; and her escape and return home. Mrs. S. also discusses her 1947 emigration to Argentina with her husband and daughters; her husband's inability to mentally recover from his wartime experiences; and her life after his death. (Part 2)"
         }
       ]
     }
@@ -20,7 +25,7 @@
   "created_at": "2025-05-09T18:33:42.311Z",
   "created_by": "GothArchivist",
   "item_type": "Video",
-  "label": "Martha S. Holocaust testimony",
-  "updated_at": "2025-05-09T18:33:42.311Z",
+  "label": "Martha S. Holocaust testimony (Part 2)",
+  "updated_at": "2025-05-09T18:39:35.357Z",
   "updated_by": "GothArchivist"
 }
