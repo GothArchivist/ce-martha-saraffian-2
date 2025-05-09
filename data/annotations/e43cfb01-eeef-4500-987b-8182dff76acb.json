@@ -1,0 +1,1800 @@
+{
+  "event_id": "d9a20862-7f62-4d61-8b22-2623cc98b4e2",
+  "source_id": "b4a52f46-202b-43c8-8c3e-5f9f0e921017",
+  "set": "mssa_hvt_237_p2of2_transcript.txt [Transcript]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 3.444,
+      "annotation": [
+        {
+          "text": "\t[TONE]\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "7d75bb89-9206-4cb0-a593-924081791f73"
+    },
+    {
+      "start_time": 3.444,
+      "end_time": 31.52,
+      "annotation": [
+        {
+          "text": "\t\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "786edff1-b542-414f-9262-3f7eab4c4486"
+    },
+    {
+      "start_time": 31.52,
+      "end_time": 35.186,
+      "annotation": [
+        {
+          "text": "\tMARTHA: But we really got used to it. We had no choice.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6c0d4021-5e56-422f-8fe0-7526609063fd"
+    },
+    {
+      "start_time": 35.186,
+      "end_time": 40.36,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: And they were what-- were-- they were sent in what way, packages or what?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f66851aa-45b2-4fb3-97a3-147d44caa905"
+    },
+    {
+      "start_time": 40.36,
+      "end_time": 47.87,
+      "annotation": [
+        {
+          "text": "\tMARTHA: No. They were flying over there, and we had to pack it in basket-- big baskets.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "526b9611-bbe8-4102-a339-1d386d1f7df1"
+    },
+    {
+      "start_time": 47.87,
+      "end_time": 49.44,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Yes.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c038c606-f972-4d53-b47f-b4d210e8c7fb"
+    },
+    {
+      "start_time": 49.44,
+      "end_time": 72.6,
+      "annotation": [
+        {
+          "text": "\tMARTHA: And these baskets were shipped to-- to Germany. The last one was shipped to Theresienstadt. And when-- when the Red Cross came to Theresienstadt, we were ordered to put down the windows, curtains. We had to clean up everything.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f479f275-4012-4efb-8d95-23367444b6bd"
+    },
+    {
+      "start_time": 72.6,
+      "end_time": 96.33,
+      "annotation": [
+        {
+          "text": "\tAnd, uh, they gave us, from this last transport, these things what they had-- sheets and so to cover the mattresses. And we had to make it-- everything-- as nice as it was possible. We had to go on our knees to clean the floor.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e8c7b4f5-9822-4a22-a479-5b75f891b092"
+    },
+    {
+      "start_time": 96.33,
+      "end_time": 127.935,
+      "annotation": [
+        {
+          "text": "\tAnd when the Red Cross was leaving, so we had to write cards. They wake us up at 3:00 in the morning always to write home that we got from the Red Cross sardines and sugar and jam. And once, they-- they waked us up to write the cards that we were-- were then-- we were by a concert. It's always 3:00 in the mornings, they waked us up.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c6c347c6-1a15-4ef4-bc41-90b6378cf445"
+    },
+    {
+      "start_time": 127.935,
+      "end_time": 135.03,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Do you remember the Red Cross people coming? Were you close, physically, to one of them? Could you speak to them?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "4905a084-3437-40a0-8b48-24ce847c995c"
+    },
+    {
+      "start_time": 135.03,
+      "end_time": 136.387,
+      "annotation": [
+        {
+          "text": "\tMARTHA: No. No.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ed53b817-8648-43e8-b31a-33a734bf5f3e"
+    },
+    {
+      "start_time": 136.387,
+      "end_time": 137.84,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: What did you see? How did they--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c2b96756-f305-4bb3-a0ff-f189c6bc153e"
+    },
+    {
+      "start_time": 137.84,
+      "end_time": 174.25,
+      "annotation": [
+        {
+          "text": "\tMARTHA: On the end-- on the end only, when the Swedish Red Cross was coming to pick up the Danish Jews. The king of Denmark ordered the-- because Sweden was neutral, so all these officers with big buses came for the Danish Jews. And the Danish Jews were protected from the king. They got packages and, from the Red Cross, always food.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "d2785723-d944-4570-9821-74e1edf347fa"
+    },
+    {
+      "start_time": 174.25,
+      "end_time": 203.81,
+      "annotation": [
+        {
+          "text": "\tAnd I saw it the last, when the German there on the end, they-- they're-- they're Sweden. So that was the only things that I saw, the Sweden Red Cross, never from Switzerland-- never. And we were not allowed to go, even when there was a bombardment from the American and we there.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f8b79334-0d6b-4579-b8e2-2e006cde088a"
+    },
+    {
+      "start_time": 203.81,
+      "end_time": 228.03,
+      "annotation": [
+        {
+          "text": "\tWe ran out from the barrack. The Scharführer was yelling, you are happy that our friends are coming. And he-- he-- he ordered us in. We couldn't stay outside. We saw the fire because it was not too far from us where the bombs were falling.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "9c27980e-bd44-4f03-8faf-1c0804f22df1"
+    },
+    {
+      "start_time": 228.03,
+      "end_time": 234.3,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Could-- could you hear from your family? Did you know what was happening to your children and your husband?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3ed1ee2f-e557-4a1c-bf4e-d7716ab4d23a"
+    },
+    {
+      "start_time": 234.3,
+      "end_time": 259.2,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes, I got, uh, sent, once they allowed the-- the people-- the mixed people, who get once a month a card from the family. Well, I could write once a month a card but it had to be 30 words. If it was one word more, they break the card and throw it away.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b5e64900-2a4f-4e53-bcdc-5402cdbd47bc"
+    },
+    {
+      "start_time": 259.2,
+      "end_time": 261.466,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Can you read the card?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f16077ff-7ca6-4fe8-a29a-a092ab20b687"
+    },
+    {
+      "start_time": 261.466,
+      "end_time": 264.58,
+      "annotation": [
+        {
+          "text": "\tMARTHA: It is [INAUDIBLE].\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b26b10ec-f8be-4b08-b0e8-6b571dc47e13"
+    },
+    {
+      "start_time": 264.58,
+      "end_time": 266.19,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Read it.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "da33ba9f-dead-43c1-82be-b4cbea95c365"
+    },
+    {
+      "start_time": 266.19,
+      "end_time": 312.512,
+      "annotation": [
+        {
+          "text": "\tMARTHA: \"My dear Noemi. it's in German. We were ordered, all, to write in German. \"Why do-- why do not write to me? Please write me if you are in good health. I am so worrying for all of you. Is-- is, uh, Father writing to you? And do you hear from-- from your sister? Did you send a package? Did you get a package? Please don't forget me.\"\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a3282885-6271-4e0f-9599-3f3c7db56751"
+    },
+    {
+      "start_time": 312.512,
+      "end_time": 362.41,
+      "annotation": [
+        {
+          "text": "\tThis was a card from my daughter she sent to my husband. It was on the end. It was already censored. She say-- she wrote, \"Dear Papa, many thanks for your card. I was by the dentist. We both, my sister and I, we both are in good health. I sent you a package, what you asked me for. Kisses, Noemi.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a37e03ab-0945-4595-8171-88e88f7503a7"
+    },
+    {
+      "start_time": 362.41,
+      "end_time": 411.43,
+      "annotation": [
+        {
+          "text": "\tThen I-- then, she wrote him a card. This is a card where it's always censored. This-- she sent him a card where she wrote what-- what we all sent him. But the package came back. And it was no more allowed to send packages. So he didn't get what he asked for. It was in the third camp where he was.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5417aed6-283c-4109-8a2c-fc8892e4d97d"
+    },
+    {
+      "start_time": 411.43,
+      "end_time": 411.73,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Can you--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0d2fd277-2ab5-4a7c-b653-f01a3befa76a"
+    },
+    {
+      "start_time": 411.73,
+      "end_time": 416.5,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Can you show the-- the card? The stamp is Hitler's picture, isn't it?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e31494cf-8b03-4e4e-8631-af2928a2d1a1"
+    },
+    {
+      "start_time": 416.5,
+      "end_time": 417.67,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "268923e3-4396-4bba-8771-d83235f8d48f"
+    },
+    {
+      "start_time": 417.67,
+      "end_time": 426.79,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Can you show it to the camera? Right. This is a correspondence from your girl to you or from you to your daughter?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3a01450e-699c-45a6-a275-085b45abefe9"
+    },
+    {
+      "start_time": 426.79,
+      "end_time": 443.35,
+      "annotation": [
+        {
+          "text": "\tMARTHA: This from my husband. It comes from, it was a Sonderlager. A special la-- camp for this Jewish man-- this Christian man.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "1f761d36-78b5-41a3-b654-b21d195d7f57"
+    },
+    {
+      "start_time": 443.35,
+      "end_time": 458.456,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Can you tell us a little about the conditions at Theresienstadt where you lived? And were you segregated? Were certain kinds of people kept together, separated in Theresienstadt?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "42214d4e-41ab-414d-af23-3abfa7336b47"
+    },
+    {
+      "start_time": 458.456,
+      "end_time": 480.23,
+      "annotation": [
+        {
+          "text": "\tMARTHA: We were always in barracks. I cannot remember how many barracks there were. But we had to go to work and then the-- when we didn't have the Glimmer work, this, uh--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "99daf525-6f4b-451e-a540-e532956a3887"
+    },
+    {
+      "start_time": 480.23,
+      "end_time": 480.77,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Mica.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c5aea49f-aa65-43c7-80ec-9bef20c91e17"
+    },
+    {
+      "start_time": 480.77,
+      "end_time": 529.159,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Mica. We-- we were-- we got a bucket and a broom, and we marched, a thousand woman in Theresienstadt, to clean the town. The hospital there, the old, sick people, were lying, and everything had to be washed. And on our knees, we had to wash it and to-- to roam the streets and like this, when we had no-- no stones to cut this mica. [INAUDIBLE] handkerchief. Thank you. I have here.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "87070af6-6984-45ad-be0a-e57857024e9f"
+    },
+    {
+      "start_time": 529.159,
+      "end_time": 534.67,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Uh, how, uh, um, did you have your own mattress? Did you have your--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ffc45c59-876f-4d1a-94e7-5d5e71ebbe09"
+    },
+    {
+      "start_time": 534.67,
+      "end_time": 541.232,
+      "annotation": [
+        {
+          "text": "\tMARTHA: No, no. We had no mattresses there. And we had to--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "20e17a76-debc-4c6c-8dfa-ce38b671f7b9"
+    },
+    {
+      "start_time": 541.232,
+      "end_time": 546.95,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: [INAUDIBLE].\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ca1e7bf8-f5e4-42bc-88c9-c8fcf2fb8f82"
+    },
+    {
+      "start_time": 546.95,
+      "end_time": 558.76,
+      "annotation": [
+        {
+          "text": "\tMARTHA: We had to clean, every day, our place before we went to work. We had to wash the small place where we go to the bath.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "1f114978-01e9-4e49-aacb-31fe4b70a5ed"
+    },
+    {
+      "start_time": 558.76,
+      "end_time": 569.908,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: I mean, did you have, uh, your own bunk to yourself, or did you have to share bunks with other people? A bunk bed-- did you have your own bunk bed?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "21669fc7-aa7f-4955-82cc-13dd9d4b8dc7"
+    },
+    {
+      "start_time": 569.908,
+      "end_time": 570.98,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Bed?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "d9a6d640-f78c-4719-977b-23a1a5d3187a"
+    },
+    {
+      "start_time": 570.98,
+      "end_time": 571.69,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Yes. One to--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b8dd55e2-1ba4-47b2-8d8f-404e711bc299"
+    },
+    {
+      "start_time": 571.69,
+      "end_time": 572.14,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes, yes, yes.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e322b181-5a78-436b-bb55-2325a66f3a0a"
+    },
+    {
+      "start_time": 572.14,
+      "end_time": 574.87,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: One to a-- one. One person to a bunk.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f90656cb-71f2-4bf0-8db1-698d5450cd3f"
+    },
+    {
+      "start_time": 574.87,
+      "end_time": 581.38,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes. We were-- we were four in a little space.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ece2ec92-9c08-4b7b-be55-371b0ed1c7b1"
+    },
+    {
+      "start_time": 581.38,
+      "end_time": 582.79,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Four in a little space.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "aaa033c8-d68d-442f-b256-6dc0f42289d6"
+    },
+    {
+      "start_time": 582.79,
+      "end_time": 584.8,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Four in a little space, yes.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e7e32cf8-5524-4eb4-82f4-454fef042784"
+    },
+    {
+      "start_time": 584.8,
+      "end_time": 589.41,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: What happened to some of the women there? What-- what, uh--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "623bcba1-4eb1-4b8e-a00b-deb509f8d9e8"
+    },
+    {
+      "start_time": 589.41,
+      "end_time": 619.95,
+      "annotation": [
+        {
+          "text": "\tMARTHA: One after about me, she got, um, at the end, she got typhus. Because when the transport came back-- when the transport came back, so she ran to-- to the gate where these people from Auschwitz were interned.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a9b209d8-5119-4a74-9992-00577666c002"
+    },
+    {
+      "start_time": 619.95,
+      "end_time": 647.71,
+      "annotation": [
+        {
+          "text": "\tAnd she saw her sister. And she kissed her through the gate. And she infected herself with typhus. We were all-- we-- we all had, uh, injection-- typhus injection. Because they were afraid that we-- that we have an epidemy in Theresienstadt, and we couldn't work on these stones.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "d4afc7ab-9fd2-4f8e-a084-5765b11b14cb"
+    },
+    {
+      "start_time": 647.71,
+      "end_time": 648.81,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Vaccines, you mean?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c0d0daae-58e1-4c13-93cc-40eecb36aedc"
+    },
+    {
+      "start_time": 648.81,
+      "end_time": 678.06,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes. And, uh, it was a bad experience, too. We were-- we all got diarrhea from it. And once we were-- the only when we got meat, it was from a sick horse. And we got this meat, as, cooked this goulash, and we were all sick. We were, the whole night, sitting on the latrine, one next, to the other, woman, man, everything.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "90011b18-7a0b-444b-874f-73c8449beac0"
+    },
+    {
+      "start_time": 678.06,
+      "end_time": 679.22,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: All together.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e8c5d8c5-f03d-442f-b98d-baf38e6e7f2a"
+    },
+    {
+      "start_time": 679.22,
+      "end_time": 687.27,
+      "annotation": [
+        {
+          "text": "\tMARTHA: All together. It was-- it was not enough latrines. One took the other away to get this--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3b846501-dc1c-4ff7-b9d3-6737bd4897e2"
+    },
+    {
+      "start_time": 687.27,
+      "end_time": 689.31,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Pushed the other person away?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c7d9b416-c885-4add-8cac-2f8c8b182b4f"
+    },
+    {
+      "start_time": 689.31,
+      "end_time": 709.17,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes. It was a terrible night from this poisoned meat. And, uh, this, uh-- this Austrian Scharführer what gave us this-- what allowed to give us this meat, he was punished and taken away from the camp.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "4312d2ca-1efb-4b24-a4df-d7657f85b820"
+    },
+    {
+      "start_time": 709.17,
+      "end_time": 714.83,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Were there some other ways that you were kept busy in camp when there was no mica to cut?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "9326baf9-42a8-4868-a6cf-d1d98943fdef"
+    },
+    {
+      "start_time": 714.83,
+      "end_time": 727.26,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Only to clean-- to clean, to wash, or to clean the hospital, the floors, and whatever was to-- to do.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "667c251e-bd93-4373-a077-ac6ae29e94e6"
+    },
+    {
+      "start_time": 727.26,
+      "end_time": 731.88,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: You were also given buckets of water for some other purpose, I believe?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "29c06dc0-f70a-42bf-95a4-1d1bfa3688e3"
+    },
+    {
+      "start_time": 731.88,
+      "end_time": 741.66,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Uh, yes. When we-- when we want to wash us, we had to go for water.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "d9c9fbcb-65db-4f9e-83e0-c8b3a7c4416e"
+    },
+    {
+      "start_time": 741.66,
+      "end_time": 745.22,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Uh, what-- was there something about--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "9537de13-1e4b-4b9b-bb5c-a90543c7e6d7"
+    },
+    {
+      "start_time": 745.22,
+      "end_time": 766.66,
+      "annotation": [
+        {
+          "text": "\tMARTHA: We had the shower. We were allowed, sometimes, to shower. We had to pay two korunas for it. We got Ghettogeld-- money-- ghetto money. And I-- I gave this ghetto money to my daughter last year.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "8ae6f85a-fdbc-4854-aca2-d01470da9765"
+    },
+    {
+      "start_time": 766.66,
+      "end_time": 769.81,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Was there something about fires?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0bc243e7-dcf6-4fc8-bba4-94ad3f7e4db1"
+    },
+    {
+      "start_time": 769.81,
+      "end_time": 820.93,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes. We had-- we had a fire in Theresienstadt. And-- and-- a woman said to the Scharführer-- no, he put-- he put us in the-- in the barracks, burning paper. And he said, you need some job. So now, you can, uh-- you can, uh, be the firefighter. And a woman said to him, we should local-- localize the fire from this side. And he took her bucket with water and put it over her head. So--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a7c2cf10-b6e8-415f-a5be-08b7fc5b5aa2"
+    },
+    {
+      "start_time": 820.93,
+      "end_time": 823.81,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: He made you set the fire?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c3be2ca3-6946-4753-aea9-d834e0f6bd5e"
+    },
+    {
+      "start_time": 823.81,
+      "end_time": 824.05,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes. He--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "4f1cf36b-b07a-44d6-b24c-13ba62c1307c"
+    },
+    {
+      "start_time": 824.05,
+      "end_time": 825.16,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Told to set the fire.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "197c96b7-5726-45fc-8ba8-f5848ef412c4"
+    },
+    {
+      "start_time": 825.16,
+      "end_time": 850.4,
+      "annotation": [
+        {
+          "text": "\tMARTHA: He set the fire to make us work. And, uh, she allowed herself to tell him something. It was a German Gestapo. His name was, I think, Hahn, if I remember well. And so she was punished in the wintertime with the cold water on her head.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "7260a670-39e9-4cd1-b3b7-7379a4af4d57"
+    },
+    {
+      "start_time": 850.4,
+      "end_time": 852.47,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Did people go crazy there?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "694d13fb-6ecd-439c-b8d4-e8ed150d3bcd"
+    },
+    {
+      "start_time": 852.47,
+      "end_time": 853.13,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes. Many people.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "27cd51de-4738-4eca-8811-8ec40fee4870"
+    },
+    {
+      "start_time": 853.13,
+      "end_time": 854.51,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Do you remember--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "98b1d90a-2e62-483e-822e-10f99c3b4893"
+    },
+    {
+      "start_time": 854.51,
+      "end_time": 855.29,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes, there were--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "255fbbbb-5a08-4f4a-be92-0b38482c6c98"
+    },
+    {
+      "start_time": 855.29,
+      "end_time": 856.43,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: What do-- what do you remember?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5a18a710-d729-42fa-9cdf-167086959158"
+    },
+    {
+      "start_time": 856.43,
+      "end_time": 872.39,
+      "annotation": [
+        {
+          "text": "\tMARTHA: There were one building where the-- the-- when you passed by, they were yelling, yelling, crying. It was terrible to pass by. And in my transport, it was a 17-year-old girl what got crazy.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e92b0f92-8be0-432a-b1df-e7e1edee33db"
+    },
+    {
+      "start_time": 872.39,
+      "end_time": 889.7,
+      "annotation": [
+        {
+          "text": "\tHer mother was a Christian. She was left behind. And her father was already dead. And she-- she was Jewish. And she was-- she got crazy there. She was in my transport because--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "35d92b3e-15c3-4c10-b19c-d47525ea2ef7"
+    },
+    {
+      "start_time": 889.7,
+      "end_time": 890.01,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: What happened?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "17b5ec93-501c-4e3c-9715-7dece6d3a5c5"
+    },
+    {
+      "start_time": 890.01,
+      "end_time": 900.53,
+      "annotation": [
+        {
+          "text": "\tMARTHA: --she were mixed. I never saw her again. Maybe was in this house where all these crazy people were yelling.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "eb8a4dfa-d802-4590-bd6f-084b097c08a4"
+    },
+    {
+      "start_time": 900.53,
+      "end_time": 908.14,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: What happened then in Theresienstadt? What happened as the war was coming to an end?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "779b48ff-3f45-4cee-b07c-ee27128c1af1"
+    },
+    {
+      "start_time": 908.14,
+      "end_time": 936.54,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Some-- it were some-- some, uh, things. I saw once, the Gestapo put the fist through a man's mouth because he said something. And his teeth flow out. One men was with a little knife picked. He was full of scars here. So some things like this.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6f6aa1dd-bd39-478f-96f4-56a48133a264"
+    },
+    {
+      "start_time": 936.54,
+      "end_time": 960.55,
+      "annotation": [
+        {
+          "text": "\tBut they-- that were Jews what were left from the other transport, not from-- from our. But there were also Jews from but has Christian woman-- women. And many were divorced, too, when they were in the camp. The woman divorced them.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "cec0fd39-483a-4dc9-aec1-cd4db22f747d"
+    },
+    {
+      "start_time": 960.55,
+      "end_time": 961.34,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Divorced the men.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "397d1f76-5133-42ea-8183-e297327e6bf5"
+    },
+    {
+      "start_time": 961.34,
+      "end_time": 965.1,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes. And the men was-- were shipped away.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3a9efc62-1c72-439a-a85c-11af7a5437b9"
+    },
+    {
+      "start_time": 965.1,
+      "end_time": 965.662,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: To [INAUDIBLE].\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6563d529-ebff-458a-a0e5-6f6a2754aa10"
+    },
+    {
+      "start_time": 965.662,
+      "end_time": 970.635,
+      "annotation": [
+        {
+          "text": "\tMARTHA: To Auschwitz, yes. The same like the women-- the same thing.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e29c7196-510d-4b6c-8007-207daba842ce"
+    },
+    {
+      "start_time": 970.635,
+      "end_time": 976.82,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: You mentioned before that you could only write 31 words.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "15f3ac71-c4e4-4cd8-9550-9b6753c4abb8"
+    },
+    {
+      "start_time": 976.82,
+      "end_time": 977.78,
+      "annotation": [
+        {
+          "text": "\tMARTHA: 30 words.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "dcfa149d-5ef0-4261-99a6-602ceecd813f"
+    },
+    {
+      "start_time": 977.78,
+      "end_time": 980.3,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: 30. Are these-- is this a postcard--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f9cceecc-f729-4d36-8593-d89c4c65f63b"
+    },
+    {
+      "start_time": 980.3,
+      "end_time": 980.605,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "acb63740-0f81-4bbc-bd50-0621857bc745"
+    },
+    {
+      "start_time": 980.605,
+      "end_time": 981.79,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: --with a number on each?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "55b3f072-6db2-419c-89de-624eaef8c490"
+    },
+    {
+      "start_time": 981.79,
+      "end_time": 984.06,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes, that I wrote.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "bdaaec12-3bb0-4423-9af8-fdb126d1e93a"
+    },
+    {
+      "start_time": 984.06,
+      "end_time": 986.01,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: And you put a number on each word.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "7aa42397-bb96-4527-ba95-f9e0867c2799"
+    },
+    {
+      "start_time": 986.01,
+      "end_time": 991.05,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes. Because if it was one word more, they break it and it never--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "183b1866-6d83-4ee5-984b-429563863df4"
+    },
+    {
+      "start_time": 991.05,
+      "end_time": 998.65,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: So you cross out the 31st word here. You see this? \"Deine\"-- you cross it out.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "95117a0a-53ec-467e-ba97-efd174213510"
+    },
+    {
+      "start_time": 998.65,
+      "end_time": 998.96,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes. Yes.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ea14e394-7909-48dd-979d-074aa2f9e9e5"
+    },
+    {
+      "start_time": 998.96,
+      "end_time": 1000.07,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: So it should be only 30 words.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "9c49048f-3295-443b-a9f8-3052b76c6d5b"
+    },
+    {
+      "start_time": 1000.07,
+      "end_time": 1006.04,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3ef649e8-e4f2-41be-adca-e1d4d388e600"
+    },
+    {
+      "start_time": 1006.04,
+      "end_time": 1010.72,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: The last sentence is \"bitte vergiss mich nicht\"-- don't forget me.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "eedc0f57-bdd3-46bc-87bb-44055f9d523e"
+    },
+    {
+      "start_time": 1010.72,
+      "end_time": 1011.26,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "aaadd224-0405-480b-bb96-f4a8f954fc89"
+    },
+    {
+      "start_time": 1011.26,
+      "end_time": 1015.18,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: And you couldn't say, \"deine\"-- your mother. You have to say just \"Mutti.\"\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b86fd5d9-e0de-48e2-bc4e-14ee95f4956e"
+    },
+    {
+      "start_time": 1015.18,
+      "end_time": 1020.21,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6d6e7b71-f5ee-4552-b376-1332081c83d5"
+    },
+    {
+      "start_time": 1020.21,
+      "end_time": 1035.333,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Uh, what happened, uh, later on, as the Americans started to bomb and as the war was coming to a close? What happened to you?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "adf4ada4-88c2-4008-8778-b3315379d66d"
+    },
+    {
+      "start_time": 1035.333,
+      "end_time": 1073.79,
+      "annotation": [
+        {
+          "text": "\tMARTHA: I-- I had the-- I met a man-- man what was in the Sudeten, our neighbor. And he had a Christian wife. And uh, when the quarantine was over Theresienstadt because of these infected people from Auschwitz, he said to me, if I have the courage, to go at night with him over the wall and walk home. It-- and I said, I would like to.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "70835a60-9d25-49c7-bc01-2d9f2e9ccde2"
+    },
+    {
+      "start_time": 1073.79,
+      "end_time": 1098.63,
+      "annotation": [
+        {
+          "text": "\tBecause some people left, and were taken by the troopers back in the camp. And I was afraid because of the typhus that we had the long quarantine. And so-- and he, too. He had two sons in-- in-- in one camp. He didn't know where.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "00b4a597-120e-4bb5-ae62-852dbb7773a0"
+    },
+    {
+      "start_time": 1098.63,
+      "end_time": 1123.03,
+      "annotation": [
+        {
+          "text": "\tAnd so we-- we went one night when all was quiet. It was not quiet because the shooting was from Czech and Germans outside. We could hear it. But, uh, he said to me, I help you over my shoulders, and you jump down. And I did. And he came after me.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "1f626574-6373-429b-8a1d-e5e050dc6fa0"
+    },
+    {
+      "start_time": 1123.03,
+      "end_time": 1146.36,
+      "annotation": [
+        {
+          "text": "\tBut we had to crawl on hand and feet because that they were shooting the German with-- the last German with the Czech were shooting. And they-- on this side, where they're shooting, there were no troopers. So we-- we were not seen.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "9d6a1bf5-6bfe-47dc-aa0b-71bf5ead00a1"
+    },
+    {
+      "start_time": 1146.36,
+      "end_time": 1182.96,
+      "annotation": [
+        {
+          "text": "\tIt took about an hour to this-- to the next town. And these men had, from-- from a business fam-- family there that he knew, and they let us slept over and gave us food. And the next day, we walked away again. And uh, some trucks took us-- French trucks and one Czech truck-- took us further home. There were no trains. It was all bombed.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e428318c-1b40-4c9d-9caf-da23889ec5d1"
+    },
+    {
+      "start_time": 1182.96,
+      "end_time": 1189.04,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: You had crossed the lines into the Allied territory? There were French soldiers already?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f4bc65c3-53bc-4ea0-87a9-7b6add417600"
+    },
+    {
+      "start_time": 1189.04,
+      "end_time": 1194.3,
+      "annotation": [
+        {
+          "text": "\tMARTHA: No. The French were with-- with the Czechs, not with the German--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5ce30f40-32e2-48ae-b132-a22f69be255e"
+    },
+    {
+      "start_time": 1194.3,
+      "end_time": 1194.45,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Yes.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "69b6db0a-5d54-40e8-a0fa-9560198f09cb"
+    },
+    {
+      "start_time": 1194.45,
+      "end_time": 1222.63,
+      "annotation": [
+        {
+          "text": "\tMARTHA: --at this time. They saved themselves from the German. So they took us. I-- we both-- we spo-- could speak French. So we communicated with them. And when they had to go another way, they let us out from the truck, and we walked again until we find another truck what took us a little bit further.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ef95c1e0-087b-4ef4-83e2-672d3c227cbf"
+    },
+    {
+      "start_time": 1222.63,
+      "end_time": 1257.51,
+      "annotation": [
+        {
+          "text": "\tAnd then, when we came nearer to-- to our hometowns, there were already train. So we took the train. He-- he had another way, and I had another way. So, we, after two days, we were finally home. I find my husband very sick and my children, thanks God, I find them all. But, uh, my-- my smaller daughter didn't recognize me.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "55bcd662-b2f0-4a5c-927e-beb77643ee29"
+    },
+    {
+      "start_time": 1257.51,
+      "end_time": 1258.82,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: What did she do?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a6bb0490-8619-405c-9b07-72e546caf469"
+    },
+    {
+      "start_time": 1258.82,
+      "end_time": 1259.27,
+      "annotation": [
+        {
+          "text": "\tMARTHA: What?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ea1cee9f-f234-4a49-9ace-b73577735c8b"
+    },
+    {
+      "start_time": 1259.27,
+      "end_time": 1266.48,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: What did she do when you came? What did the child do-- do when you came?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "289ff905-5899-4b9a-bda8-d9d29d0e01f4"
+    },
+    {
+      "start_time": 1266.48,
+      "end_time": 1268.46,
+      "annotation": [
+        {
+          "text": "\tMARTHA: The elder one was very happy.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "92897366-4652-42d8-b4fc-31373bc6c61f"
+    },
+    {
+      "start_time": 1268.46,
+      "end_time": 1269.67,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: No, the child-- the younger one.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "387d46ab-bdbe-4a2e-bed7-7d97f691c4bf"
+    },
+    {
+      "start_time": 1269.67,
+      "end_time": 1289.01,
+      "annotation": [
+        {
+          "text": "\tMARTHA: The-- the younger didn't recognize me. And my husband was very sick. We didn't-- he-- we were thinking he has typhus because he has so high fever. But he got some antibiotics.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "63b46d24-784f-4c64-8591-84f05ac06657"
+    },
+    {
+      "start_time": 1289.01,
+      "end_time": 1326.31,
+      "annotation": [
+        {
+          "text": "\tAnd he was, then, OK. But he never recovered, uh, for-- his mind never recovered from this ordeal. He was not, when we were-- in 1947, when we-- when we went to South America, he was very unhappy. He never could attach to a new life.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "bdcc61ef-a2c3-4247-996f-59c68794975b"
+    },
+    {
+      "start_time": 1326.31,
+      "end_time": 1333.47,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: When you came back home, your youngest child was still with the other family?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "2010da6a-7fac-41b4-9f61-0b80c0ed1f03"
+    },
+    {
+      "start_time": 1333.47,
+      "end_time": 1343.74,
+      "annotation": [
+        {
+          "text": "\tMARTHA: No. They give her to me back. She was till the end, yes. And the-- the older was by, in the pastor's house.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "4bf9b5cb-c5ff-42a6-9358-012d4f2b558e"
+    },
+    {
+      "start_time": 1343.74,
+      "end_time": 1344.96,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: So when you came back--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "aa75bbdf-9bf2-4d83-a48f-8161134a4b85"
+    },
+    {
+      "start_time": 1344.96,
+      "end_time": 1346.64,
+      "annotation": [
+        {
+          "text": "\tMARTHA: They gave her back to me, yes.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "094dc819-2608-4317-acd3-823cac611b7c"
+    },
+    {
+      "start_time": 1346.64,
+      "end_time": 1349.4,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: You went to collect your children?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "29ed8e3b-dc50-4e83-b4bc-493f85279cd7"
+    },
+    {
+      "start_time": 1349.4,
+      "end_time": 1377.72,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes. I-- we had-- our apartment had, uh, a Czech physician. And when we came back, he moved out. He gave us our-- apartment back. But it was-- most was robbed. We had a few furniture inside. But all the other thing were taken away.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c45e4c66-159e-45bc-bec4-ab414ed39729"
+    },
+    {
+      "start_time": 1377.72,
+      "end_time": 1387.83,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: So when you went to collect your younger daughter at this family's, what was your reaction when you came there?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "40ce78a9-32f5-4d86-b336-98ad5aea705e"
+    },
+    {
+      "start_time": 1387.83,
+      "end_time": 1418.72,
+      "annotation": [
+        {
+          "text": "\tMARTHA: I was not in good shape, either. I was limping from this humidity. I-- I had, uh, sciatica. I was in very much pain and was limping. But they give me some electric-- electric bus. And I couldn't stand it. My nerves couldn't take this.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "1a299a82-fdeb-4b64-ab08-fb7c2e0bd812"
+    },
+    {
+      "start_time": 1418.72,
+      "end_time": 1419.77,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Hm-mm. Hm-mm.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "1754088e-19fa-483f-aaa5-3bc2a455a7ce"
+    },
+    {
+      "start_time": 1419.77,
+      "end_time": 1428.64,
+      "annotation": [
+        {
+          "text": "\tMARTHA: And there-- maybe I've forget something to tell.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "8ba1b26a-a42e-4762-a364-0190195a8e34"
+    },
+    {
+      "start_time": 1428.64,
+      "end_time": 1431.88,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: What happened to that man who you escaped with?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "651e6364-0c51-4035-9612-fe5e2f509ba8"
+    },
+    {
+      "start_time": 1431.88,
+      "end_time": 1451.99,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yeah, he went from one camp to the other looking for his children. And when he was told-- the children were about 10 and 12 years old and were Jewish. The mother was Christian, and the children were Jewish.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "7075aae3-268d-4682-b43b-eafdee7ab831"
+    },
+    {
+      "start_time": 1451.99,
+      "end_time": 1485.2,
+      "annotation": [
+        {
+          "text": "\tBecause he was from a-- not Orthodox but a believing family-- and, uh, when he hear that the children were killed, so he shot himself. They had the word-- the German had the word-- killed when flying-- when they fled. They were killed. But it was not true. They always said, um--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "220c02f6-7dfb-40ff-a0cd-8570fe7968aa"
+    },
+    {
+      "start_time": 1485.2,
+      "end_time": 1487.21,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Trying to escape.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "edf6fc58-14f8-4415-93ce-9c85085b477d"
+    },
+    {
+      "start_time": 1487.21,
+      "end_time": 1498,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes. They always said, uh, erschossen-- auf der Flucht erschossen. You understand? So it--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "abf67a24-0e66-4aeb-891f-4618fcf2bd38"
+    },
+    {
+      "start_time": 1498,
+      "end_time": 1499.6,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Shot while trying to escape.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6a5cb9b1-0fa9-4201-a001-07495193cb17"
+    },
+    {
+      "start_time": 1499.6,
+      "end_time": 1532.91,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes. But he couldn't get over. And, uh, he wrote me. And his last letter, what he wrote me, uh, said I should not answer him. He will not be alive anymore. And then his wife sent me a card, said he shot himself. That was the end for-- for many from these people what couldn't get over not to find their children anymore.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6f1b889d-48ab-4925-a35a-2cf4bfb298f7"
+    },
+    {
+      "start_time": 1532.91,
+      "end_time": 1564.166,
+      "annotation": [
+        {
+          "text": "\tThis-- this woman what had typhus what was sleeping on top of me, she was so happy to see her three-year-old child and husband, and she died in the quarantine with infected typhus from her sister because she kissed her sister. There were so many tragedies on the end, where they could be free. They had to die, anyway.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "58393b4d-0aca-49d4-adee-c5f0dfdb20aa"
+    },
+    {
+      "start_time": 1564.166,
+      "end_time": 1571.522,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: You going to end there? Um, do you want to-- that's it? Do you want to end up now?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e6808a1b-83f7-4dfd-b173-b1f7ac253a96"
+    },
+    {
+      "start_time": 1571.522,
+      "end_time": 1572.175,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: I think, yes.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "fc8e9929-7aca-496a-b709-e9b21b4f295c"
+    },
+    {
+      "start_time": 1572.175,
+      "end_time": 1574.57,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: OK. Thank you very, very much--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "417d343d-58f9-4bd9-8975-80f38c4b5664"
+    },
+    {
+      "start_time": 1574.57,
+      "end_time": 1575.351,
+      "annotation": [
+        {
+          "text": "\tMARTHA: You're welcome.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ac066526-f7d2-49fe-81de-c22bd4386bff"
+    },
+    {
+      "start_time": 1575.351,
+      "end_time": 1584.69,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: --Martha.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ca974a7c-37b0-4a03-a07a-ed994d18e44d"
+    },
+    {
+      "start_time": 1584.69,
+      "end_time": 1602.19,
+      "annotation": [
+        {
+          "text": "\tMARTHA: I have so many cards. I take only some of them.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "9a4f2171-0ca0-436a-a071-bc16e9b6e28b"
+    },
+    {
+      "start_time": 1602.19,
+      "end_time": 1605,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Is your husband alive?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "da9f92c0-b776-41f3-953a-834234304bc1"
+    },
+    {
+      "start_time": 1605,
+      "end_time": 1630.04,
+      "annotation": [
+        {
+          "text": "\tMARTHA: My husband? No. He died four years after when we went Argentina. He-- he went every Sunday to the port with us and said, I have to see the ship that brought me here. He said-- said the-- das verfluchte Schiff.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c3704edb-0984-4a2a-a8bd-e3817fe54a55"
+    },
+    {
+      "start_time": 1630.04,
+      "end_time": 1631.42,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: The cursed ship.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "415cb10c-28a1-4d7d-b4c6-8a0e0f4f27ca"
+    },
+    {
+      "start_time": 1631.42,
+      "end_time": 1638.51,
+      "annotation": [
+        {
+          "text": "\tMARTHA: The cursed ship that brought me over here. He couldn't get over. He died four years later on cancer.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e0143633-0857-4c9e-a018-cff79d9f5e9d"
+    },
+    {
+      "start_time": 1638.51,
+      "end_time": 1641.05,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Of cancer.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e11f9d8c-82ce-411f-be5c-4cc156bf2c0f"
+    },
+    {
+      "start_time": 1641.05,
+      "end_time": 1672.94,
+      "annotation": [
+        {
+          "text": "\tMARTHA: So I am 33 years widow with two children. And I had not much restitution because I had not many papers. I-- my parents, my husband, paid a big insurance in Germany. They had, in every country, um, offices. And they paid the insurance in US dollars what-- what was very expensive for Czech koruns.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "fed47ad0-8d23-4b4b-8269-296a7a25697f"
+    },
+    {
+      "start_time": 1672.94,
+      "end_time": 1696.26,
+      "annotation": [
+        {
+          "text": "\tAnd I got nothing for it-- nothing. And they confirmed it, that it's true, that I should get it. But I got nothing-- nothing. I-- I had the help from my parents in-- in the Sudeten. It's now Czechoslovakia. Now, the-- the Czech has the-- the help, but I-- but I have nothing.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f7a6e819-1d6c-4a06-9f51-b65f83077c5d"
+    },
+    {
+      "start_time": 1696.26,
+      "end_time": 1720.25,
+      "annotation": [
+        {
+          "text": "\tAnd even the, um, government here, gave from the gold what our president left here that he took. When he left Czechoslovakia, President Benes took gold with him. And this was given to Czech people that lost their houses in Czechoslovakia.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "06157d31-99de-443d-8251-239323108089"
+    },
+    {
+      "start_time": 1720.25,
+      "end_time": 1763.66,
+      "annotation": [
+        {
+          "text": "\tBut they had to be in 1948 and 1949 and citiz-- American citizens. And I wasn't. I was in-- in Argentina in '48. I came there in '47. And I came to America [? '63. ?] So my claim was not-- not, uh, allowed. They-- they wanted to give me a hearing, but the lawyer told me I had not to spend a penny for it because it wouldn't help. It was only for the people that were here, American citizens, till '49.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "bfff5439-1d6e-4e96-9751-df6e601c070f"
+    },
+    {
+      "start_time": 1763.66,
+      "end_time": 1793.53,
+      "annotation": [
+        {
+          "text": "\tSo I fell, always, on the dry side, never on the buttered side. And it was very hard in Argentina for my children and for myself. And my husband, uh, was really-- my children had not a youth because even my younger daughter was eight a half years old when we came to Argen-- five years old when we came to Argentina.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "fd9d2d6e-aeb8-47a1-83b8-9221e9a42dba"
+    },
+    {
+      "start_time": 1793.53,
+      "end_time": 1814.5,
+      "annotation": [
+        {
+          "text": "\tShe was eight a half years old when my husband died. And the older one was 15 a half. So they had not youth. They both had to work from 14 years. And, uh, I-- I worked 16 hours a day because I had to make a living.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "d6a2875d-882f-4754-84f6-3f7de7ec4663"
+    },
+    {
+      "start_time": 1814.5,
+      "end_time": 1822.692,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: While in Argentina, did you meet or get-- come in contact with Germans, with Nazis there?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "03e76cfa-0235-41ca-b974-7d88b9b1780f"
+    },
+    {
+      "start_time": 1822.692,
+      "end_time": 1840.64,
+      "annotation": [
+        {
+          "text": "\tMARTHA: No. I had, um, a cousin, rabbi, in-- in-- in London. And he got to me through the international committee-- intergovernmen-- intergovernmental committee the free trip and this ship--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "23544683-bb13-4291-9c5b-7cebacb8ee67"
+    },
+    {
+      "start_time": 1840.64,
+      "end_time": 1853.11,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: I understand that. But I was asking, while you were living in Argentina, and while you were living in Argentina for so many years, whether you spotted, whether you knew that there were also Nazis in Argentina?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "48e6d07b-e396-4098-b111-06a97121c834"
+    },
+    {
+      "start_time": 1853.11,
+      "end_time": 1855.08,
+      "annotation": [
+        {
+          "text": "\tMARTHA: Yes, yes-- many, many.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "45d41f5b-ce45-4258-a8c5-d6c6f16ebd30"
+    },
+    {
+      "start_time": 1855.08,
+      "end_time": 1858.23,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Did you meet any of them? Did you--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0d76415e-f445-4b2a-b1d1-b622102235cf"
+    },
+    {
+      "start_time": 1858.23,
+      "end_time": 1872.94,
+      "annotation": [
+        {
+          "text": "\tMARTHA: No. They were Argentina Nazis, no? In front of where I lived was a dentist. His son was a very big Nazi. But the-- the German Nazi, I never met there.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "fe4e3b65-a69f-4a65-98d7-cb1940aeb687"
+    },
+    {
+      "start_time": 1872.94,
+      "end_time": 1900.56,
+      "annotation": [
+        {
+          "text": "\tBut around-- around the town in the boroughs, there were German. And, uh, one case was there were small synagogues with, uh, little gardens. And a child from-- from a rabbi was-- was bicycle around the-- the synagogue, and a German shoot him.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "db70d518-4a4b-4bcc-9909-975818503df3"
+    },
+    {
+      "start_time": 1900.56,
+      "end_time": 1935.64,
+      "annotation": [
+        {
+          "text": "\tFrom this, I knew, and I knew from-- from the-- the-- this, uh, DAIA, it-- it was a Jewish organization, so they had a-- a home for children what has no parents-- Jewish children. And they, these Nazis, a couple of them at night, break in and cut this-- the children in their faces with the razor blades. It's true. It's not a story. It's really true.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "912debef-03c5-46f8-8e6b-c9aecab975d3"
+    },
+    {
+      "start_time": 1935.64,
+      "end_time": 1936.6,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: And that happened--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c6259872-1291-442f-9d16-7022de3e01c3"
+    },
+    {
+      "start_time": 1936.6,
+      "end_time": 1955.98,
+      "annotation": [
+        {
+          "text": "\tMARTHA: And that happens in Argentina. Always in-- that in Argentina, come nothing out in the big letters in the newspapers. So in France only, in the Jewish paper. But uh, all over, uh, anti-Semites-- all over, wherever you go.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "db476974-543e-4c86-9d1d-6547ca79e526"
+    },
+    {
+      "start_time": 1955.98,
+      "end_time": 1982.11,
+      "annotation": [
+        {
+          "text": "\tWe should go to Chile, but we didn't get the money. So we-- we had to stay in Argentina. My husband didn't want this. He said, because on-- on the custom, when we came in, they already said, these are all Jews. So my husband said, in such a country, I don't want to live. He was unhappy there.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "11a9c159-15a6-4ef3-b8d2-7a7451a24649"
+    },
+    {
+      "start_time": 1982.11,
+      "end_time": 1983.61,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Thank you.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "196ba0d3-a55a-4e3d-94ca-b31269a4e981"
+    },
+    {
+      "start_time": 1983.61,
+      "end_time": 1995.119,
+      "annotation": [
+        {
+          "text": "\tMARTHA: You are very welcome."
+        }
+      ],
+      "tags": [],
+      "uuid": "e3bcb48d-56fd-4b2c-9e90-d0058dfe02f5"
+    }
+  ]
+}
