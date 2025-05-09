@@ -4,6 +4,17 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://yaleedu-my.sharepoint.com/:i:/r/personal/christy_tomecek_yale_edu/Documents/AVAnnotatePictures/mssa_hvt_237AVAnnotate.jpg",
+      "caption": "",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -12,43 +23,37 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "By Nikolaus Hagen, Innsbruck",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": "Introduction to the Testimony of Martha Saraffian"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "small",
+          "text": "By Nikolaus Hagen, Innsbruck"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "HVT-237",
           "textSize": "small"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+        },
         {
-          "textSize": "small",
-          "text": "HVT-237"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "small",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-two",
-          "text": "Introduction"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
+          "text": "\n"
         }
       ]
     },
@@ -1092,7 +1097,7 @@
   "created_at": "2025-05-09T18:32:11.209Z",
   "created_by": "GothArchivist",
   "title": "Introduction to the Testimony of Martha Saraffian",
-  "updated_at": "2025-05-09T20:08:51.276Z",
+  "updated_at": "2025-05-09T20:39:00.487Z",
   "updated_by": "GothArchivist",
   "autogenerate": {
     "enabled": false,
