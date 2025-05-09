@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "GothArchivist",
+    "is_private": false,
+    "title": "Martha Saraffian Critical Edition 2",
+    "description": "Recreating Marth Saraffian's Critical Edition, take 2.",
+    "language": "en",
+    "slug": "ce-martha-saraffian-2",
+    "creator": "GothArchivist",
+    "authors": "Fortunoff Video Archive for Holocaust Testimonies",
+    "media_player": "avannotate",
+    "auto_populate_home_page": false,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-05-09T18:32:11.204Z",
+    "updated_at": "2025-05-09T18:32:11.204Z"
   }
 }
