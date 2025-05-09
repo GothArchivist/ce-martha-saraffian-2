@@ -30,6 +30,15 @@
       "type": "paragraph",
       "children": [
         {
+          "textSize": "small",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "textSize": "heading-two",
           "text": "Introduction"
         }
@@ -303,9 +312,25 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "image",
-      "url": "https://yaleedu-my.sharepoint.com/:i:/g/personal/christy_tomecek_yale_edu/ETLWkb-XO99Hn48pYwkQHr8BzMbHfWUEToUBSoaRZyKaJQ?e=ytCHFh",
+      "url": "https://yaleedu-my.sharepoint.com/:i:/r/personal/christy_tomecek_yale_edu/Documents/AVAnnotatePictures/KummermannObit.png",
       "caption": "Obituary announcing Emanuel Kummermann’s death. Several of his children and children-in-law were murdered in the Holocaust, including his daughter Ida Freund and his daughter-in-law Elvira Kummermann (Source: Prager Tagblatt, May 26, 1906, 18).",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -346,8 +371,16 @@
     },
     {
       "type": "image",
-      "url": "https://yaleedu-my.sharepoint.com/:i:/g/personal/christy_tomecek_yale_edu/EVum8Iw_TTxDn5WmYq-Mh8wBxq6ylPQbMLkHDb6ih-qK2g?e=gqVIYu",
+      "url": "https://yaleedu-my.sharepoint.com/:i:/r/personal/christy_tomecek_yale_edu/Documents/AVAnnotatePictures/TrutnovSquare.jpg",
       "caption": "The central town square of Trautenau/Trutnov in the early 20th century. (Source: Author’s private collection)",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -399,7 +432,6 @@
       "uuid": "4363d3b3-067c-4d14-af71-6137614725d9",
       "includes": [
         "media",
-        "annotations",
         "label",
         "description"
       ],
@@ -489,7 +521,6 @@
       "uuid": "4363d3b3-067c-4d14-af71-6137614725d9",
       "includes": [
         "media",
-        "annotations",
         "label",
         "description"
       ],
@@ -511,8 +542,16 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "image",
-      "url": "https://yaleedu-my.sharepoint.com/:i:/g/personal/christy_tomecek_yale_edu/EULI5ibM27xEk4369xk2-LwBbt30FDYL25pdjcIfqJqEVQ?e=Xk16vp",
+      "url": "https://yaleedu-my.sharepoint.com/:i:/r/personal/christy_tomecek_yale_edu/Documents/AVAnnotatePictures/Recipe.jpg",
       "caption": "A recipe for “Turkish style Spinach” by Martha Saraffian, printed in the Prager Tagblatt newspaper on August 29, 1936.",
       "children": [
         {
@@ -1047,7 +1086,7 @@
   "created_at": "2025-05-09T18:32:11.209Z",
   "created_by": "GothArchivist",
   "title": "Introduction to the Testimony of Martha Saraffian",
-  "updated_at": "2025-05-09T19:35:55.131Z",
+  "updated_at": "2025-05-09T19:57:42.937Z",
   "updated_by": "GothArchivist",
   "autogenerate": {
     "enabled": false,
