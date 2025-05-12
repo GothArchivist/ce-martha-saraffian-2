@@ -41,6 +41,15 @@
       "children": [
         {
           "textSize": "small",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "small",
           "text": "By Nikolaus Hagen, Innsbruck"
         }
       ]
@@ -54,6 +63,14 @@
         },
         {
           "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -142,23 +159,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "In the Fortunoff collection we find three further testimonies given that day in New York City in the same setting. This may indicate that the interviewers were under certain time constrains. Each of the testimonies – all approximately the same length – was conducted by a different female interviewer, together with Dori Laub. In Saraffian's case the interviewer was Bonnie Dwork. This was apparently Dwork's first interview for the Video Archive and Laub's intended role was most likely to guide and supervise her[8.] At the beginning of the recording, Laub can be heard explaining to Saraffian: \"Bonnie will ask you most of the questions. I'll be mostly silent.\" This, however, did not quite prove to be the case. Laub would eventually ask just as many questions and make as many comments on Saraffian's narration as Dwork. At times he also served as a translator from German into English."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
         }
       ]
     },
@@ -190,14 +191,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Bohemian Jews, the Kummermann Family and the new Czechoslovakian State",
           "textSize": "heading-two"
         }
@@ -209,14 +202,6 @@
         {
           "text": "[10]",
           "textSize": "small"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
         }
       ]
     },
@@ -606,14 +591,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "The Ottoman authorities answered with severe repression and several bloody massacres in many Armenian communities in the 1890s. The years 1894 to 1896 saw a campaign of mass killings, the so-called \"Hamidian massacres,\" with 80,000 to 300,000 Armenians murdered, according to varying estimates, and up to 50,000 children orphaned.[42] It is very likely that Hrand Saraffian and his siblings were among these orphans and were brought to Europe in a humanitarian effort, perhaps organized by Armenians living in the diaspora. According to a post-war document of the International Tracing Service, Hrand Saraffian left Istanbul in 1897 at the age of six and \"since then he has not acquired any other citizenship.\"[43] His background, his experience of flight and persecution, left a great impression on Martha Kummermann when she met him:"
         }
       ]
@@ -630,23 +607,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "He came to Germany, with a transport, children. What—what were left after a massacre. When the Turks massacred the Armenians, he came to-- to Germany. With an-- it's like a self-help organization what brought this children to Germany. He came there with about four sisters and brothers. He never saw them again because they were all placed in another foster home. So he-- he searched, but he didn't get any-- he didn't see any of his family. Only one uncle was in Köln am Rhein and he had the business with stamps. That was the only connection he got. And he was alone and he told me this story."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
         }
       ]
     },
@@ -704,7 +665,6 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-two",
           "text": ""
         }
       ]
@@ -1097,7 +1057,7 @@
   "created_at": "2025-05-09T18:32:11.209Z",
   "created_by": "GothArchivist",
   "title": "Introduction to the Testimony of Martha Saraffian",
-  "updated_at": "2025-05-09T20:39:00.487Z",
+  "updated_at": "2025-05-12T13:02:38.632Z",
   "updated_by": "GothArchivist",
   "autogenerate": {
     "enabled": false,
